@@ -2,6 +2,14 @@ package com.wjd.design.pattern.prototypePattern.lazyClone;
 
 import java.util.List;
 
+/**
+ * @ClassName ConcretePrototypeA
+ * @Description 原型模式（简单克隆）
+ * @Author JinDuoWang
+ * @Email wangjinduoliuxi@163.com
+ * @Date 2020-04-17 13:53
+ * @Version 1.0
+ **/
 public class ConcretePrototypeA implements Prototype {
 
     // 年龄
@@ -43,6 +51,6 @@ public class ConcretePrototypeA implements Prototype {
         concretePrototypeA.setAge(this.age);
         concretePrototypeA.setName(this.name);
         concretePrototypeA.setHobbies(this.hobbies);
-        return null;
+        return concretePrototypeA;
     }
 }
