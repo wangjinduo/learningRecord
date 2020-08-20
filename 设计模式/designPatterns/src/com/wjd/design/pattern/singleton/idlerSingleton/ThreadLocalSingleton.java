@@ -5,7 +5,6 @@ package com.wjd.design.pattern.singleton.idlerSingleton;
  * @Description 线程见单例
  * @Author JinDuoWang
  * @Email wangjinduoliuxi@163.com
- * @Date 2020-04-10 14:44
  * @Version 1.0
  **/
 public class ThreadLocalSingleton {

@@ -7,7 +7,6 @@ package com.wjd.design.pattern.singleton.idlerSingleton;
  * @Description 测试反序列化破坏单例
  * @Author JinDuoWang
  * @Email wangjinduoliuxi@163.com
- * @Date 2020-04-10 10:52
  * @Version 1.0
  **/
 public class SeriableSingleton implements Serializable {

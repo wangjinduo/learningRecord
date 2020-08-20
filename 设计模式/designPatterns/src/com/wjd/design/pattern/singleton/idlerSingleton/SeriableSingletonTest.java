@@ -10,7 +10,6 @@ import java.io.ObjectOutputStream;
  * @Description 测试反序列化破坏单例（客户端调用）
  * @Author JinDuoWang
  * @Email wangjinduoliuxi@163.com
- * @Date 2020-04-10 10:52
  * @Version 1.0
  **/
 public class SeriableSingletonTest {

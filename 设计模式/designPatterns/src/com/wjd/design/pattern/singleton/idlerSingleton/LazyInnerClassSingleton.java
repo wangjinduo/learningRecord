@@ -5,7 +5,6 @@ package com.wjd.design.pattern.singleton.idlerSingleton;
  * @Description 懒汉式单例模式（静态内部类）
  * @Author JinDuoWang
  * @Email wangjinduoliuxi@163.com
- * @Date 2020-04-10 09:53
  * @Version 1.0
  **/
 public class LazyInnerClassSingleton {

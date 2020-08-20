@@ -8,7 +8,6 @@ import java.util.concurrent.ConcurrentHashMap;
  * @Description 容器缓存式单例
  * @Author JinDuoWang
  * @Email wangjinduoliuxi@163.com
- * @Date 2020-04-10 14:40
  * @Version 1.0
  **/
 public class ContainerSingleton {

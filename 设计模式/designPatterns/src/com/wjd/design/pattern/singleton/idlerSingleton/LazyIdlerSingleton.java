@@ -5,7 +5,6 @@ package com.wjd.design.pattern.singleton.idlerSingleton;
  * @Description 简单的懒汉式单例实现
  * @Author JinDuoWang
  * @Email wangjinduoliuxi@163.com
- * @Date 2020-04-10 09:26
  * @Version 1.0
  **/
 public class LazyIdlerSingleton {
